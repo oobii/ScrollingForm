@@ -11,7 +11,7 @@ Observation: Here is the sequence that seems to work to create whats needed. Fir
 
 The trick to get it done is to size everything to the right sizes and then set the constrains.
 First we make one element of TableView and then copy/paste it, renaming the fields in the Cells. Here is another example with TableView: 
-![FavouriteAthlete](https://github.com/oobii/FavouriteAthlete)
+https://github.com/oobii/FavouriteAthlete
 
 
 
