@@ -10,7 +10,8 @@ the content size.
 Observation: Here is the sequence that seems to work to create whats needed. First we add ScrollView which fill the whole parent view,then we add a dummmy view with Label and TextView sub views (with Auto Layout configured for them), and only then we add StackView to be the parent view of the dummy view. Then we “Control-drag from this dummy view to the view controller's view and release. In the popover, choose Equal Widths.
 
 The trick to get it done is to size everything to the right sizes and then set the constrains.
-First we make one element of TableView and then copy/paste it, renaming the fields
+First we make one element of TableView and then copy/paste it, renaming the fields in the Cells. Here is another example with TableView: 
+![FavouriteAthlete](https://github.com/oobii/FavouriteAthlete)
 
 
 
